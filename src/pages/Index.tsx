@@ -1,6 +1,6 @@
 import Icon from '@/components/ui/icon';
 
-const WHATSAPP = 'https://wa.me/79280000000?text=Здравствуйте!%20Хочу%20записаться%20на%20VIP-приём%20в%20NOVA%20SMILE';
+const WHATSAPP = 'https://wa.me/79289488299?text=Здравствуйте!%20Хочу%20записаться%20на%20VIP-приём%20в%20NOVA%20SMILE';
 
 const HERO_IMG =
   'https://cdn.poehali.dev/projects/eaedfb4f-1a6b-48c7-b54e-7e4fa0ae02fc/files/7bd8ad2f-20e9-45a6-a0b4-067413e04e94.jpg';
